@@ -1,0 +1,41 @@
+Month,Campaign,Channel,Ad_Spend_USD,Sales_Revenue_USD,ROI_Percent
+Jan,Winter Sale,Google Ads,5000,18500,270
+Jan,Winter Sale,Facebook Ads,3200,10800,237
+Jan,Winter Sale,Instagram Ads,2100,7350,250
+Feb,Valentine's Day,Google Ads,6200,24800,300
+Feb,Valentine's Day,Facebook Ads,4100,14350,250
+Feb,Valentine's Day,Email Marketing,800,5600,600
+Mar,Spring Launch,Google Ads,7500,27750,270
+Mar,Spring Launch,Instagram Ads,3800,11400,200
+Mar,Spring Launch,YouTube Ads,4200,12600,200
+Apr,Easter Promo,Google Ads,5500,18150,230
+Apr,Easter Promo,Facebook Ads,3000,9000,200
+Apr,Easter Promo,TikTok Ads,2500,6250,150
+May,Summer Teaser,Google Ads,8000,32000,300
+May,Summer Teaser,Instagram Ads,5200,18200,250
+May,Summer Teaser,Influencer,6000,24000,300
+Jun,Mid-Year Sale,Google Ads,9500,38000,300
+Jun,Mid-Year Sale,Facebook Ads,6200,21700,250
+Jun,Mid-Year Sale,YouTube Ads,4800,16800,250
+Jul,Summer Sale,Google Ads,11000,46200,320
+Jul,Summer Sale,Instagram Ads,7000,24500,250
+Jul,Summer Sale,TikTok Ads,4500,13500,200
+Aug,Back to School,Google Ads,9000,36000,300
+Aug,Back to School,Facebook Ads,5500,19250,250
+Aug,Back to School,Email Marketing,1200,9600,700
+Sep,Fall Preview,Google Ads,7200,25920,260
+Sep,Fall Preview,Instagram Ads,4800,14400,200
+Sep,Fall Preview,Influencer,5500,19250,250
+Oct,Halloween Promo,Google Ads,8500,34000,300
+Oct,Halloween Promo,Facebook Ads,6000,21000,250
+Oct,Halloween Promo,TikTok Ads,3500,10500,200
+Nov,Black Friday,Google Ads,15000,75000,400
+Nov,Black Friday,Facebook Ads,12000,54000,350
+Nov,Black Friday,Instagram Ads,9000,36000,300
+Nov,Black Friday,YouTube Ads,7500,26250,250
+Nov,Black Friday,Email Marketing,2000,18000,800
+Dec,Christmas Sale,Google Ads,13000,58500,350
+Dec,Christmas Sale,Facebook Ads,10000,40000,300
+Dec,Christmas Sale,Instagram Ads,8000,28000,250
+Dec,Christmas Sale,Influencer,7000,28000,300
+Dec,Christmas Sale,Email Marketing,1800,14400,700
