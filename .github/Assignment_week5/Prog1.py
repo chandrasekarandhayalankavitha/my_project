@@ -64,8 +64,7 @@ df["team2"] = df["team2"].str.upper()
 print("32",df[['team1', 'team2']].head())
 
 #part8
-df.sort_values(by = ['Season'], ascending=True, inplace=True)
-df.sort_values(by = ['date'], ascending=False, inplace=True)
+df.sort_values(by = ['Season','date'], ascending=[True, False], inplace=True)
 print("33",df[['Season', 'date']].head())
 df.sort_values(by=['runs_margin'], ascending=False, inplace=True)
 print("34",df[['runs_margin']].head())
