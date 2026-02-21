@@ -34,7 +34,7 @@ class Student(User):
 class Instructor(User):
     def __init__(self, username):
         super().__init__(username)
-        self.courses = {}  # course_name -> list of students
+        self.courses = {}  
 
     def login(self):
         print(f"Instructor {self.username} logged in.")
