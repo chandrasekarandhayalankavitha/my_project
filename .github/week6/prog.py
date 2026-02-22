@@ -3,13 +3,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-df = pd.read_csv(".github/folder/Calorie_Tracking_Dataset.xls")
+df = pd.read_csv(".github/week6/Calorie_Tracking_Dataset.xls")
 
 df["Date"] = pd.to_datetime(df["Date"], format="%d-%m-%Y")
 df = df.sort_values("Date")
 
 plt.figure()
-plt.plot(df["Date"], df["Daily Weight (kg)"], marker='o')
+plt.plot(df["Date"], df["Daily Weight (kg)"])
 plt.xlabel("Date")
 plt.ylabel("Daily Weight (kg)")
 plt.title("Daily Weight Trend (January 2026)")
