@@ -1,0 +1,15 @@
+Day,Employment,CreditScore,LoanAmount,Dependents,Approved
+1,Employed,Good,Low,None,Yes
+2,Employed,Good,Medium,Few,Yes
+3,Self-Employed,Good,Low,Many,Yes
+4,Employed,Good,High,None,Yes
+5,Unemployed,Fair,Low,None,Yes
+6,Employed,Fair,Medium,Few,Yes
+7,Self-Employed,Fair,Low,None,Yes
+8,Employed,Fair,High,Many,No
+9,Unemployed,Fair,High,Many,No
+10,Self-Employed,Poor,Medium,Few,No
+11,Unemployed,Poor,Low,None,No
+12,Employed,Poor,High,Many,No
+13,Self-Employed,Poor,Medium,Many,No
+14,Unemployed,Poor,High,Few,No
